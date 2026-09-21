@@ -9,3 +9,4 @@ superseded_2026-01/plots/
 restart_correction/bin/
 __pycache__/
 restart_correction/*/landuse/
+restart_correction/*/*.tsv
