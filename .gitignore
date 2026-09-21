@@ -1,0 +1,11 @@
+# Maps are data, reproducible from TL255_peat_frac.txt and LUH3 in minutes, and two of them
+# are above the 100 MB a git host takes. The TL255 source is tracked.
+*_peat_frac.txt
+!TL255_peat_frac.txt
+*_peat_frac_Lund_corrected_*.txt
+*.orig2dp
+superseded_2026-01/*.txt
+superseded_2026-01/plots/
+restart_correction/bin/
+__pycache__/
+restart_correction/*/landuse/

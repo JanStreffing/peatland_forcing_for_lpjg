@@ -1,0 +1,31 @@
+{
+  "year": 1850,
+  "rows": 40320,
+  "valid_luh3_rows": 10979,
+  "all_fields_missing_rows_using_natural_fallback": 29341,
+  "partial_rows": 0,
+  "corrected_peat_nonzero_rows": 4516,
+  "maximum_corrected_peat": 0.99994634,
+  "raw_luh3_total_min_valid": 0.0,
+  "raw_luh3_total_max_valid": 1.0000008478818927,
+  "luh3_source": "/work/ab0246/a270092/input/lpj-guess/land_use/TCO95/multiple-states_input4MIPs_landState_CMIP_UofMD-landState-3-1-2_gn_0850-2024_TCO95.nc",
+  "luh3_sha256": "6498044773dd094afe029e5998ba22fcd004148b9e0c518c91ea6b003df3997f",
+  "management_source": "/work/ab0246/a270092/input/lpj-guess/land_use/TCO95/multiple-management_input4MIPs_landState_CMIP_UofMD-landState-3-1-2_gn_0850-2024_TCO95.nc",
+  "management_sha256": "1aebd7ead205a00f238fe3215f1a186a6c6078b6ebc556c7b377bbeda85d21c1",
+  "peat_source": "/work/ab0246/a270092/input/lpj-guess/peat/TCO95_peat_frac_Lund_corrected_0850-2024.txt",
+  "peat_sha256": "a8b3731b0a8488a13fa9160534beb7bfc9b1512962706431f969019a67e285c0",
+  "target_table": "/work/ab0246/a270092/software/lpjg_peat_migration/TCO95_PICAL/targets/TCO95_LUH3_3-1-2_LundPeat_crop_target_1850.tsv",
+  "target_sha256": "e31fcca75f9d8ccde30d921f3950b7bcfce99aaa4abd99849150c1281bf748fd",
+  "crop_columns": [
+    "CC3ann",
+    "CC3per",
+    "CC3nfx",
+    "CC4ann",
+    "CC4per",
+    "CC3anni",
+    "CC3peri",
+    "CC3nfxi",
+    "CC4anni",
+    "CC4peri"
+  ]
+}
